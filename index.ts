@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import { hasSubscribers } from 'diagnostics_channel';
 import inquirer from 'inquirer';
 
